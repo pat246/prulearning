@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: online-compiler Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.compiler
+Class-Path: jersey-server-1.8.jar asm-3.1.jar jersey-core-1.8.jar serv
+ let-api-2.5.jar
+Build-Jdk: 1.7.0_71
+Built-By: prashantthorat
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+

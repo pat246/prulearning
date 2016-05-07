@@ -1,0 +1,1 @@
+{"status":0,"projecttitle":"New Project-20160426","mainmode":"java","mainfile":"HelloWorld.java","languageid":"java","sessionid":"1461693252-108445","version":"JDK 1.7.0","ext":"java","execute":"java -Xmx128M -Xms16M HelloWorld","compile":"javac HelloWorld.java","preview":"","command":"","port":41796,"root":"/home/cg/root","message":"Initialized successfully"}

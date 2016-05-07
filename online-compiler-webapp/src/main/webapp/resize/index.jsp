@@ -1,0 +1,1 @@
+{"status":0,"width":"170","height":"17","message":"Terminal resized successfully"}
